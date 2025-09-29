@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Antaryami-tech
-- 👀 I’m interested in AI and data sciences
-- 🌱 I’m currently learning Data science
+- 👀 I’m interested in AI, data sciences and machine learning
+- 🌱 I’m currently learning Data science & programming
 - 💞️ I’m looking to collaborate on Machine learning
 - 📫 How to reach me:
 - mail id- amarendra.6364@gmail.com
+- instagram- antaryami__23
 - 😄 Pronouns: he/his
 
 <!---
